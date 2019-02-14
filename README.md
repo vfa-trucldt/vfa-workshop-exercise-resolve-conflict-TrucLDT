@@ -1,5 +1,5 @@
 # vfa-workshop-exercise-resolve-conflict-TrucLDT
 AAAAA  
-BBBBB  	
-CCCCC  	
+BBBBB  
+CCCCC  
 DDDDD  	
